@@ -15,7 +15,7 @@ const Nav = () =>{
                     <Link className="nav-link" to="/GroupedTeamMembers">Teams</Link>
                 </li>
                 <li className="nav-item  ">
-                    <h5 className=" font-monospace font-weight-lighter text-secondary Name" >Harshil Patel</h5>
+                    <h5 className=" font-monospace font-weight-lighter text-secondary Name mx-5" >Harshil Patel</h5>
                 </li>
         
 
